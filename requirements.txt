@@ -1,0 +1,9 @@
+flask
+requests
+python-dotenv
+flask_sqlalchemy
+APScheduler
+pydantic
+email-validator
+Flask-Mail
+Flask-CORS
